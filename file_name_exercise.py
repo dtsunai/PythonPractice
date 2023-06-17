@@ -2,6 +2,8 @@
 """ Display data type of unique variables, file extension, first name,
     last name, first name last name, (last name, first name), length of file name """
 #Check if all file names contain an "_"
+
+#I Looked at Your code.
     
     # >>> fnp = file name pure (without extension)
 
